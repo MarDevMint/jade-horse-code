@@ -1,0 +1,31 @@
+{
+  "name": "jade-horse",
+  "displayName": "Jade Horse",
+  "description": "Jade Horse for VS Code / Code-OSS: a quiet jade theme, dark and light",
+  "publisher": "mardevmint",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jade Horse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jade-horse-dark.json"
+      },
+      {
+        "label": "Jade Horse Light",
+        "uiTheme": "vs",
+        "path": "./themes/jade-horse-light.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarDevMint/jade-horse-code"
+  }
+}

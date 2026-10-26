@@ -1,0 +1,34 @@
+# Jade Horse Light: the same jade palette inked on pale celadon rice paper.
+# Cool green-white surfaces (no cream or yellow cast), deep pine ink for text,
+# accents keep the dark theme's hues, darkened to read on paper.
+mode = "light"
+
+accent = "#2f7a62"
+selection = "#c9e0d6"
+muted = "#627f73"
+
+background = "#eef4f0"
+dark_background = "#e4ede7"
+darker_background = "#d9e5dd"
+lighter_background = "#f7fbf8"
+
+foreground = "#1f3b32"
+dark_foreground = "#557266"
+light_foreground = "#36564a"
+bright_foreground = "#0f241d"
+
+red = "#a64c55"
+yellow = "#6b7233"
+orange = "#93613b"
+green = "#2f7a62"
+cyan = "#2d7471"
+blue = "#3f6a8c"
+magenta = "#74598c"
+brown = "#5f6a52"
+
+bright_red = "#8f3a43"
+bright_yellow = "#5a6029"
+bright_green = "#236551"
+bright_cyan = "#235f5d"
+bright_blue = "#325a79"
+bright_magenta = "#634a7a"
